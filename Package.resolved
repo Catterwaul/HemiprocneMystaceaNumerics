@@ -1,0 +1,42 @@
+{
+  "originHash" : "35dcd4d9f6c3edf05d68a4f0a3f444fac330673cbedc77b7bd3c0b3f4755b7df",
+  "pins" : [
+    {
+      "identity" : "swift-docc-plugin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-docc-plugin",
+      "state" : {
+        "branch" : "main",
+        "revision" : "2eb22993b3dfd0c0d32729b357c8dabb6cd44680"
+      }
+    },
+    {
+      "identity" : "swift-docc-symbolkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-docc-symbolkit",
+      "state" : {
+        "revision" : "b45d1f2ed151d057b54504d653e0da5552844e34",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swift-numerics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-numerics",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e30276bff2ff5ed80566fbdca49f50aa160b0e83"
+      }
+    },
+    {
+      "identity" : "thrappture",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Catterwaul/Thrappture",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e6aae00285098bf65c01ac154a677e6679973c11"
+      }
+    }
+  ],
+  "version" : 3
+}
