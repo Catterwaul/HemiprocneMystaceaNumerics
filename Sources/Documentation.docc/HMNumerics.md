@@ -16,6 +16,7 @@ You've got the source code, so aside from reading this documentation, see the **
 
 - ``Swift/Numeric``
 - ``Swift/FloatingPoint``
+- ``Swift/AdditiveArithmetic/fibonacciSequence(_:)``
 
 ### Integers
 
