@@ -14,3 +14,6 @@ You've got the source code, so aside from reading this documentation, see the **
 
 ## Topics
 
+- ``Swift/BinaryInteger/÷(_:_:)``
+- ``RealModule/AlgebraicField/÷(_:_:)``
+- ``DivisionByZeroError``
