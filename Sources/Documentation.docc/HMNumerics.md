@@ -14,6 +14,15 @@ You've got the source code, so aside from reading this documentation, see the **
 
 ## Topics
 
+- ``Swift/Numeric``
+- ``Swift/FloatingPoint``
+
+### Integers
+
+- ``Swift/FixedWidthInteger``
+- ``Swift/Sequence``
+
+### ÷
 - ``Swift/BinaryInteger/÷(_:_:)``
 - ``RealModule/AlgebraicField/÷(_:_:)``
 - ``DivisionByZeroError``
